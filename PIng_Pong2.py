@@ -4,7 +4,7 @@ import winsound
 wn=turtle.Screen()
 wn.title("MY pong game")
 wn.bgcolor("Black")
-wn.setup(width=800, height=600)
+wn.setup(width=800, height=800)
 wn.tracer(0)
 
 #Score 
